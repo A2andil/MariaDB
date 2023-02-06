@@ -1,4 +1,4 @@
-### Pull latest docker image and craete container
+### Pull latest docker image and create container
 ```
 docker pull mariadb
 ```
