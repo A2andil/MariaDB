@@ -1,4 +1,4 @@
-### Creating a Container from the Latest Version of a Docker Image
+### Creating a Container from the Latest Version of a Docker Image:
 ```
 docker pull mariadb
 ```
