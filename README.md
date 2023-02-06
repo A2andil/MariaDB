@@ -1,4 +1,4 @@
-### Install Command Unsing Docker
+### Pull latest docker image
 ```
 docker pull mariadb
 ```
